@@ -1,28 +1,17 @@
 {
-  "LastUpdate": "2026-10-20 05:09:05",
-  "Total": 1,
-  "Language": "it-IT",
-  "message": "ok",
-  "status": true,
-  "success": true,
-  "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
-  "data": [
-    {
-      "startdate": "20221021",
-      "fullstartdate": "202210212200",
-      "enddate": "20221022",
-      "url": "/th?id=OHR.CanaleLeonardesco_IT-IT4107798098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-      "urlbase": "/th?id=OHR.CanaleLeonardesco_IT-IT4107798098",
-      "copyright": "Porto Canale Leonardesco, Cesenatico, Emilia-Romagna (© ermes.s/Alamy Stock Photo)",
-      "copyrightlink": "https://www.bing.com/search?q=porto-canale+di+Cesenatico&form=hpcapt",
-      "title": "Il canale di Leonardo Da Vinci",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221021_CanaleLeonardesco%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "d2c59629f3103cfccc57e6c36a23ef64",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    }
-  ]
+  "startdate": "20221021",
+  "fullstartdate": "202210212200",
+  "enddate": "20221022",
+  "url": "/th?id=OHR.CanaleLeonardesco_IT-IT4107798098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "urlbase": "/th?id=OHR.CanaleLeonardesco_IT-IT4107798098",
+  "copyright": "Porto Canale Leonardesco, Cesenatico, Emilia-Romagna (© ermes.s/Alamy Stock Photo)",
+  "copyrightlink": "https://www.bing.com/search?q=porto-canale+di+Cesenatico&form=hpcapt",
+  "title": "Il canale di Leonardo Da Vinci",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221021_CanaleLeonardesco%22&FORM=HPQUIZ",
+  "wp": true,
+  "hsh": "d2c59629f3103cfccc57e6c36a23ef64",
+  "drk": 1,
+  "top": 1,
+  "bot": 1,
+  "hs": []
 }

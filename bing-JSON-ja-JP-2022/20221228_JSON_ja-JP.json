@@ -1,28 +1,17 @@
 {
-  "LastUpdate": "2026-10-20 05:08:40",
-  "Total": 1,
-  "Language": "ja-JP",
-  "message": "ok",
-  "status": true,
-  "success": true,
-  "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
-  "data": [
-    {
-      "startdate": "20221227",
-      "fullstartdate": "202212271500",
-      "enddate": "20221228",
-      "url": "/th?id=OHR.ChiesaBianca_JA-JP5162517168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-      "urlbase": "/th?id=OHR.ChiesaBianca_JA-JP5162517168",
-      "copyright": "マローヤの冬景色, スイス (© Roberto Moiola/Getty)",
-      "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%AD%E3%83%BC%E3%83%A4+%E3%82%B9%E3%82%A4%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220221227_1500%22",
-      "title": "スイス マローヤの冬景色",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221227_ChiesaBianca%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "e7a5686e714531011c3c094d8927716e",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    }
-  ]
+  "startdate": "20221227",
+  "fullstartdate": "202212271500",
+  "enddate": "20221228",
+  "url": "/th?id=OHR.ChiesaBianca_JA-JP5162517168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "urlbase": "/th?id=OHR.ChiesaBianca_JA-JP5162517168",
+  "copyright": "マローヤの冬景色, スイス (© Roberto Moiola/Getty)",
+  "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%AD%E3%83%BC%E3%83%A4+%E3%82%B9%E3%82%A4%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220221227_1500%22",
+  "title": "スイス マローヤの冬景色",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221227_ChiesaBianca%22&FORM=HPQUIZ",
+  "wp": true,
+  "hsh": "e7a5686e714531011c3c094d8927716e",
+  "drk": 1,
+  "top": 1,
+  "bot": 1,
+  "hs": []
 }

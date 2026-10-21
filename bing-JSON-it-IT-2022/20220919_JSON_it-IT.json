@@ -1,28 +1,17 @@
 {
-  "LastUpdate": "2026-10-20 05:09:05",
-  "Total": 1,
-  "Language": "it-IT",
-  "message": "ok",
-  "status": true,
-  "success": true,
-  "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
-  "data": [
-    {
-      "startdate": "20220918",
-      "fullstartdate": "202209182200",
-      "enddate": "20220919",
-      "url": "/th?id=OHR.QueenFuneral_IT-IT7458076770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-      "urlbase": "/th?id=OHR.QueenFuneral_IT-IT7458076770",
-      "copyright": "Omaggi floreali lasciati a Londra, in Inghilterra, dopo la morte della regina Elisabetta II (© Maja Smiejkowska/Reuters)",
-      "copyrightlink": "https://www.bing.com/search?q=Regina+Elisabetta&form=hpcapt",
-      "title": "Addio sua Maestà",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220918_QueenFuneral%22&FORM=HPQUIZ",
-      "wp": false,
-      "hsh": "6daf01ad2cf16e6e78ae193fd788513e",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    }
-  ]
+  "startdate": "20220918",
+  "fullstartdate": "202209182200",
+  "enddate": "20220919",
+  "url": "/th?id=OHR.QueenFuneral_IT-IT7458076770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "urlbase": "/th?id=OHR.QueenFuneral_IT-IT7458076770",
+  "copyright": "Omaggi floreali lasciati a Londra, in Inghilterra, dopo la morte della regina Elisabetta II (© Maja Smiejkowska/Reuters)",
+  "copyrightlink": "https://www.bing.com/search?q=Regina+Elisabetta&form=hpcapt",
+  "title": "Addio sua Maestà",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220918_QueenFuneral%22&FORM=HPQUIZ",
+  "wp": false,
+  "hsh": "6daf01ad2cf16e6e78ae193fd788513e",
+  "drk": 1,
+  "top": 1,
+  "bot": 1,
+  "hs": []
 }

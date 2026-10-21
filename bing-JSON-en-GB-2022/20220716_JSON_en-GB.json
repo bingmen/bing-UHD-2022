@@ -1,28 +1,17 @@
 {
-  "LastUpdate": "2026-10-20 05:08:52",
-  "Total": 1,
-  "Language": "en-GB",
-  "message": "ok",
-  "status": true,
-  "success": true,
-  "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
-  "data": [
-    {
-      "startdate": "20220715",
-      "fullstartdate": "202207152300",
-      "enddate": "20220716",
-      "url": "/th?id=OHR.RapadalenSNP_EN-GB8130464188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-      "urlbase": "/th?id=OHR.RapadalenSNP_EN-GB8130464188",
-      "copyright": "Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)",
-      "copyrightlink": "https://www.bing.com/search?q=Rapa+Valley+Sweden&form=hpcapt&filters=HpDate%3a%2220220715_2300%22",
-      "title": "Swedish wilderness",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220715_RapadalenSNP%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "25beb74bb4da171c4db5d052050de6ed",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    }
-  ]
+  "startdate": "20220715",
+  "fullstartdate": "202207152300",
+  "enddate": "20220716",
+  "url": "/th?id=OHR.RapadalenSNP_EN-GB8130464188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "urlbase": "/th?id=OHR.RapadalenSNP_EN-GB8130464188",
+  "copyright": "Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)",
+  "copyrightlink": "https://www.bing.com/search?q=Rapa+Valley+Sweden&form=hpcapt&filters=HpDate%3a%2220220715_2300%22",
+  "title": "Swedish wilderness",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220715_RapadalenSNP%22&FORM=HPQUIZ",
+  "wp": true,
+  "hsh": "25beb74bb4da171c4db5d052050de6ed",
+  "drk": 1,
+  "top": 1,
+  "bot": 1,
+  "hs": []
 }

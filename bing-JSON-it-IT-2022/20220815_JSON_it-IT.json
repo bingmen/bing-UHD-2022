@@ -1,28 +1,17 @@
 {
-  "LastUpdate": "2026-10-20 05:09:05",
-  "Total": 1,
-  "Language": "it-IT",
-  "message": "ok",
-  "status": true,
-  "success": true,
-  "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
-  "data": [
-    {
-      "startdate": "20220814",
-      "fullstartdate": "202208142200",
-      "enddate": "20220815",
-      "url": "/th?id=OHR.FerragostoNight_IT-IT2386194169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-      "urlbase": "/th?id=OHR.FerragostoNight_IT-IT2386194169",
-      "copyright": "Fuochi d’artificio durante la notte di Ferragosto (© Stefania Loriga/Getty Images)",
-      "copyrightlink": "https://www.bing.com/search?q=ferragosto&form=hpcapt",
-      "title": "Fuochi d’artificio durante la notte di Ferragosto (©Stefania Loriga/Getty Images",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220814_FerragostoNight%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "d007e47042a3bfe6ef83acefc4491256",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    }
-  ]
+  "startdate": "20220814",
+  "fullstartdate": "202208142200",
+  "enddate": "20220815",
+  "url": "/th?id=OHR.FerragostoNight_IT-IT2386194169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "urlbase": "/th?id=OHR.FerragostoNight_IT-IT2386194169",
+  "copyright": "Fuochi d’artificio durante la notte di Ferragosto (© Stefania Loriga/Getty Images)",
+  "copyrightlink": "https://www.bing.com/search?q=ferragosto&form=hpcapt",
+  "title": "Fuochi d’artificio durante la notte di Ferragosto (©Stefania Loriga/Getty Images",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220814_FerragostoNight%22&FORM=HPQUIZ",
+  "wp": true,
+  "hsh": "d007e47042a3bfe6ef83acefc4491256",
+  "drk": 1,
+  "top": 1,
+  "bot": 1,
+  "hs": []
 }

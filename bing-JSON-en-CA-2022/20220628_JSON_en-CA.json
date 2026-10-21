@@ -1,28 +1,17 @@
 {
-  "LastUpdate": "2026-10-20 05:08:48",
-  "Total": 1,
-  "Language": "en-CA",
-  "message": "ok",
-  "status": true,
-  "success": true,
-  "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
-  "data": [
-    {
-      "startdate": "20220627",
-      "fullstartdate": "202206270400",
-      "enddate": "20220628",
-      "url": "/th?id=OHR.ValensoleLavender_EN-CA6579604648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-      "urlbase": "/th?id=OHR.ValensoleLavender_EN-CA6579604648",
-      "copyright": "Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)",
-      "copyrightlink": "https://www.bing.com/search?q=lavender&form=hpcapt&filters=HpDate%3a%2220220627_0400%22",
-      "title": "Fragrant fields as far as the eye can see",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220627_ValensoleLavender%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "c2d642203d46231f46f43e6402206a11",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    }
-  ]
+  "startdate": "20220627",
+  "fullstartdate": "202206270400",
+  "enddate": "20220628",
+  "url": "/th?id=OHR.ValensoleLavender_EN-CA6579604648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+  "urlbase": "/th?id=OHR.ValensoleLavender_EN-CA6579604648",
+  "copyright": "Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)",
+  "copyrightlink": "https://www.bing.com/search?q=lavender&form=hpcapt&filters=HpDate%3a%2220220627_0400%22",
+  "title": "Fragrant fields as far as the eye can see",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220627_ValensoleLavender%22&FORM=HPQUIZ",
+  "wp": true,
+  "hsh": "c2d642203d46231f46f43e6402206a11",
+  "drk": 1,
+  "top": 1,
+  "bot": 1,
+  "hs": []
 }
