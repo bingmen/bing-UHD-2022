@@ -22,6 +22,7 @@ include:
 
 # 排除的文件和目录（不参与 Jekyll 构建）
 exclude:
+  - "*.json"
   - bing-320-de-DE-2022/
   - bing-320-en-CA-2022/
   - bing-320-en-GB-2022/
